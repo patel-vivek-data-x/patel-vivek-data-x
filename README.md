@@ -24,14 +24,18 @@ Certified through Google, Microsoft, and Macquarie University via Coursera. Self
 ### 📂 Projects
 
 #### [U.S. Data Analyst Job Market Analysis](https://github.com/patel-vivek-data-x/data-analyst-job-market)
-`Descriptive & Prescriptive Analytics · Python · DuckDB · SQL · Tableau · Excel`
+`Descriptive & Prescriptive Analytics · Python · DuckDB · SQL · Tableau · Excel · GitHub Actions`
 
-17,076 post-deduplication job postings scraped across Indeed, LinkedIn, and Adzuna — enriched with BLS OES May 2024 wage benchmarks. Every finding confirmed against a primary query and at least one independent cross-validation before inclusion. Seven confidence-rated claims. Five recommendations with explicit boundary conditions. Four formally refused because the data couldn't support them.
+**The question:** What does the U.S. data analyst job market actually look like for someone trying to break into it — which skills matter, which markets pay, and what should an early-career candidate realistically expect?
+
+**The stakeholder:** Early-career data analysts making real decisions about skill investment, market targeting, and salary negotiation.
+
+17,076 post-deduplication job postings scraped across Indeed, LinkedIn, and Adzuna — enriched with BLS OES May 2024 wage benchmarks. Every finding confirmed against a primary query and at least one independent cross-validation before inclusion. Seven confidence-rated claims. Five recommendations with explicit boundary conditions. Four formally refused because the data couldn't support them — each refusal documented with the evidence threshold that would be required to reverse it.
 
 - $58,000+ compensation gap between highest and lowest-paying sectors for the same occupational code — metro and industry operate as independent levers
 - Five role archetypes mapped from skill co-occurrence patterns — general analyst leads at 49.83% of postings
 - Structural salary transparency gap at entry level — fewer than 100 postings disclose salary at entry tier
-- Four recommendations formally refused, each with documented evidence threshold and what would be required to make them
+- Four recommendations formally refused, each with documented evidence threshold and the specific analysis that would be required to make them defensible
 
 → [View project page](https://patel-vivek-data-x.github.io/project-da.html)
 
@@ -40,7 +44,11 @@ Certified through Google, Microsoft, and Macquarie University via Coursera. Self
 #### [FIFA 23 Talent Distribution Analysis](https://github.com/patel-vivek-data-x/fifa-23-talent-distribution)
 `Descriptive Analytics · Python · DuckDB · SQL · Excel · GitHub Actions`
 
-End-to-end analysis of how FIFA 23 player ratings distribute across 39 leagues, clubs, and 15 positions. SQL-first pipeline with pre-committed cross-validation thresholds. Two structural claims confirmed. Four recommendations formally refused — including the most tempting one, which would have turned a descriptive rating pattern into a real-world scouting recommendation.
+**The question:** How does FIFA 23 distribute player ratings across leagues, clubs, and positions — and what structural patterns emerge when you treat the rating system as data rather than ground truth?
+
+**The stakeholder:** FIFA ratings teams, Ultimate Team economists, and esports analysts working within the FIFA rating system domain. Explicitly not: real-world football operations, which the data cannot support.
+
+End-to-end analysis across 39 leagues, clubs, and 15 positions. SQL-first pipeline with pre-committed cross-validation thresholds. Two structural claims confirmed. Four recommendations formally refused — including the most tempting one, which would have turned a descriptive rating pattern into a real-world scouting recommendation the data cannot support.
 
 - Two distinct league archetypes confirmed — depth-based vs. elite-concentration — Bundesliga's within-league spread is 68% larger than La Liga's despite both being Tier-1 European leagues
 - Female ratings exceed male at all 15 positions by 7–14 points — confirmed as scale calibration difference, not quality comparison
@@ -53,14 +61,14 @@ End-to-end analysis of how FIFA 23 player ratings distribute across 39 leagues, 
 
 ### 📜 Certifications
 
-| Certificate | Issuer | Completed |
-|---|---|---|
-| Advanced Data Analytics Professional | Google · Coursera | Jan 2025 |
-| Data Analytics Professional | Google · Coursera | Dec 2024 |
-| Power BI Data Analyst Professional | Microsoft · Coursera | Feb 2025 |
-| Excel Skills for Business Specialization | Macquarie University · Coursera | Feb 2025 |
-| SQL for Data Science | UC Davis · Coursera | Feb 2025 |
-| SQL Problem Solving | UC Davis · Coursera | Feb 2025 |
+| Certificate | Issuer | Completed | Verify |
+|---|---|---|---|
+| Advanced Data Analytics Professional | Google · Coursera | Jan 2025 | [↗](https://coursera.org/verify/professional-cert/USR6G4FF64E3) |
+| Data Analytics Professional | Google · Coursera | Dec 2024 | [↗](https://coursera.org/verify/professional-cert/WZMGYVXXGDUG) |
+| Power BI Data Analyst Professional | Microsoft · Coursera | Feb 2025 | [↗](https://coursera.org/verify/professional-cert/6WYRD708PJ38) |
+| Excel Skills for Business Specialization | Macquarie University · Coursera | Feb 2025 | [↗](https://coursera.org/verify/specialization/Y6Y2HKG5QOR2) |
+| SQL for Data Science | UC Davis · Coursera | Feb 2025 | [↗](https://www.coursera.org/account/accomplishments/verify/R42OPHSFL3HJ) |
+| SQL Problem Solving | UC Davis · Coursera | Feb 2025 | [↗](https://www.coursera.org/account/accomplishments/verify/4CI6JE7NV9LD) |
 
 ---
 
