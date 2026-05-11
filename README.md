@@ -63,12 +63,13 @@ End-to-end analysis across 39 leagues, clubs, and 15 positions. SQL-first pipeli
 
 | Certificate | Issuer | Completed | Verify |
 |---|---|---|---|
-| Advanced Data Analytics Professional | Google · Coursera | Jan 2025 | [↗](https://coursera.org/verify/professional-cert/USR6G4FF64E3) |
 | Data Analytics Professional | Google · Coursera | Dec 2024 | [↗](https://coursera.org/verify/professional-cert/WZMGYVXXGDUG) |
+| Advanced Data Analytics Professional | Google · Coursera | Jan 2025 | [↗](https://coursera.org/verify/professional-cert/USR6G4FF64E3) |
 | Power BI Data Analyst Professional | Microsoft · Coursera | Feb 2025 | [↗](https://coursera.org/verify/professional-cert/6WYRD708PJ38) |
 | Excel Skills for Business Specialization | Macquarie University · Coursera | Feb 2025 | [↗](https://coursera.org/verify/specialization/Y6Y2HKG5QOR2) |
-| SQL for Data Science | UC Davis · Coursera | Feb 2025 | [↗](https://www.coursera.org/account/accomplishments/verify/R42OPHSFL3HJ) |
-| SQL Problem Solving | UC Davis · Coursera | Feb 2025 | [↗](https://www.coursera.org/account/accomplishments/verify/4CI6JE7NV9LD) |
+| Learn SQL Basics for Data Science | UC Davis · Coursera | May 2026 | [↗](https://www.coursera.org/account/accomplishments/specialization/QJDB22IGTZUS)|
+| Tableau Business Intelligence Analyst | Tableau · Salesforce · Coursera | May 2026 | [↗](https://www.coursera.org/account/accomplishments/professional-cert/LPTI686TPSQM)|
+
 
 ---
 
