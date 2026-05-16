@@ -41,7 +41,7 @@ Certified through Google, Microsoft, and Macquarie University via Coursera. Self
 
 ---
 
-#### [FIFA 23 Talent Distribution Analysis](https://github.com/patel-vivek-data-x/fifa-23-talent-distribution)
+#### [FIFA 23 Talent Distribution Analysis](https://github.com/patel-vivek-data-x/fifa-talent-distribution)
 `Descriptive Analytics · Python · DuckDB · SQL · Excel · GitHub Actions`
 
 **The question:** How does FIFA 23 distribute player ratings across leagues, clubs, and positions — and what structural patterns emerge when you treat the rating system as data rather than ground truth?
